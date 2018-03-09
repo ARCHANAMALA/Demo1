@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="45" started-at="2018-03-08T19:00:59Z" finished-at="2018-03-08T19:00:59Z">
+  <suite name="Suite" duration-ms="50" started-at="2018-03-08T22:10:00Z" finished-at="2018-03-08T22:10:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="45" started-at="2018-03-08T19:00:59Z" finished-at="2018-03-08T19:00:59Z">
-      <class name="cosmo.Jog">
-        <test-method status="PASS" signature="home()[pri:0, instance:cosmo.Jog@6e6d5e]" name="home" duration-ms="9" started-at="2018-03-09T00:30:59Z" finished-at="2018-03-09T00:30:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- home -->
-      </class> <!-- cosmo.Jog -->
+    <test name="Test" duration-ms="50" started-at="2018-03-08T22:10:00Z" finished-at="2018-03-08T22:10:00Z">
       <class name="practice.Run1">
-        <test-method status="PASS" signature="print()[pri:0, instance:practice.Run1@11d970]" name="print" duration-ms="0" started-at="2018-03-09T00:30:59Z" finished-at="2018-03-09T00:30:59Z">
+        <test-method status="PASS" signature="print()[pri:0, instance:practice.Run1@f82f98]" name="print" duration-ms="0" started-at="2018-03-09T03:40:00Z" finished-at="2018-03-09T03:40:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->
       </class> <!-- practice.Run1 -->
+      <class name="cosmo.Jog">
+        <test-method status="PASS" signature="home()[pri:0, instance:cosmo.Jog@196751b]" name="home" duration-ms="0" started-at="2018-03-09T03:40:00Z" finished-at="2018-03-09T03:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+      </class> <!-- cosmo.Jog -->
       <class name="practice.Run">
-        <test-method status="PASS" signature="test()[pri:0, instance:practice.Run@1b64c45]" name="test" duration-ms="0" started-at="2018-03-09T00:30:59Z" finished-at="2018-03-09T00:30:59Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:practice.Run@42b0a6]" name="test" duration-ms="0" started-at="2018-03-09T03:40:00Z" finished-at="2018-03-09T03:40:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
